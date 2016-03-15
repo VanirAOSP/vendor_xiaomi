@@ -76,23 +76,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
-    vendor/xiaomi/cancro/proprietary/bin/quipc_main:system/bin/quipc_main \
-    vendor/xiaomi/cancro/proprietary/bin/quipc_igsn:system/bin/quipc_igsn \
     vendor/xiaomi/cancro/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/xiaomi/cancro/proprietary/lib/hw/activity_recognition.msm8974.so:system/lib/hw/activity_recognition.msm8974.so \
-    vendor/xiaomi/cancro/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/xiaomi/cancro/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/xiaomi/cancro/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/xiaomi/cancro/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/xiaomi/cancro/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/xiaomi/cancro/proprietary/lib/hw/gps.msm8974.so:system/lib/hw/gps.msm8974.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
