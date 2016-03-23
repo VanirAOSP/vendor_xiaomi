@@ -27,6 +27,7 @@ PRODUCT_PACKAGES += \
     libtime_genoff
 
 PRODUCT_PACKAGES += \
+    fastdormancy \
     qcrilmsgtunnel \
     shutdownlistener \
     TimeService
